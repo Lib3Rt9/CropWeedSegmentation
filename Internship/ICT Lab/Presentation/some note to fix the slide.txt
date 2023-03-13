@@ -1,0 +1,28 @@
+# This context contains some note to fix the slide and some question to prepare for answering the question of Internship defense's jury
+
+'0' in the start of line: incomplete
+'1' in the start of line: complete
+
+--------------------------------------------------------
+
+1 slide number 
+1 how planting (agriculture)
+1 add why to precision agri (therby)
+1 benefits of uav?
+
+1 ***** only time for weed segmen
+
+1 CHange color of loss to red blue
+
+1 Need drone picture
+
+--------------------------------------------------------
+Ques: 
+
+Why use IOU and Dice Coef
+
+Why this work better than other work?????????????
+
+How plan to do both crop weed segmen?
+
+Why Val better than train? (IOU)

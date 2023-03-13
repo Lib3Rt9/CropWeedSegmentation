@@ -1,0 +1,23 @@
+***Comment:
+
+too much in "introduction on smart farming and precision agriculture";				  |
+"too much application of uav in smart agriculture"						  |  comments about 
+												  |   the presentation
+too much time in intro about application of uav images and smart agriculture -> not main topic    |     (i have modified a bit 
+												  |	     in the thesis)  
+
+-> explain more about objective you want to do image segmentation on images. -> focus			
+	-> not application of smart agriculture, why smart agriculture important
+
+more info than just "RGB" channel, use only "RGB" -> explain tooo much details on channels other than RGB
+	-> just take a few line explain about other details of the dataset made use
+	-> focus just on RGB channel
+		(*explain a lot of other channels in dataset -> confuse the reader)
+	=> focus only in RGB channel, RGB image
+
+
+In presentation, should focus more on methodology.
+
+Don't need many references, trim, reduce some unnecessary.
+
+

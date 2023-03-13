@@ -1,0 +1,8 @@
+https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47
+https://bond-kirill-alexandrovich.medium.com/understanding-unet-27de538e08d8
+https://naokishibuya.medium.com/up-sampling-with-transposed-convolution-9ae4f2df52d0
+https://www.quora.com/What-is-max-pooling-in-convolutional-neural-networks#
+https://towardsdatascience.com/u-net-for-semantic-segmentation-on-unbalanced-aerial-imagery-3474fa1d3e56
+
+
+most important metrics and why?

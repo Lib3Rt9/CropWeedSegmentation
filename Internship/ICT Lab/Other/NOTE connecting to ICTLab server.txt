@@ -1,0 +1,44 @@
+Open Ubuntu
+
+type: 
+	"ssh ictlab"  ->  access to the frontend
+type:
+	"ssh ict[num]"  ->  access to the ict server: 	[num] = {2, 4, 5, 6}
+
+-------------------------------------------------------
+connect to use jupyter notebook:
+
+	"ssh -p 22222 -L localhost:8080:localhost:8080 phucpg@ictlab.usth.edu.vn"
+	
+	"ssh -L localhost:8080:localhost:8080 ict[num]"
+
+	whereas '8080' is the port that can be define to whatever number, like use '8080'
+
+--------------------------------------------------
+copy from computer to server:
+
+	place the file in the Destop
+	open ubuntu
+	type:
+
+	"cd /mnt/c/Users/FLOS\ IGNIS/Onedrive/Máy\ tính/"
+
+->	"scp -r -P 22222 [filename] phucpg@ictlab.usth.edu.vn:/storage/phucpg"
+
+
+copy file from server to computer:
+
+	"scp -r -P 22222 phucpg@ictlab.usth.edu.vn:/storage/phucpg/[file or folder name] ."
+
+-> 	"mv [file or folder name] /mnt/c/Users/FLOS\ IGNIS/Onedrive/Máy\ tính/"
+
+---------------------------------------------
+remove file from ubuntu command in local machine:
+
+	"rm -r [file or folder name]"
+
+remove file from ICTLab server: (see more in google)
+
+	"unlink [filename]"
+
+	" rm -r [foldername]"
